@@ -2,7 +2,7 @@
 
 This project analyzes the connectedness of commodity markets and performs portfolio optimization using both covariance and DYIC (Dynamic Connectedness Index) matrices.
 
-# Usefull links
+## Usefull links
 - https://gabauerdavid.github.io/ConnectednessApproach/
 - https://www.financialconnectedness.org/
 
